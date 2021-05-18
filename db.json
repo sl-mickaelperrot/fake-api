@@ -2,12 +2,14 @@
     "classified": [
         {
             "id": 1,
+            "intermediaryId": 327009580,
             "title": "HUGE Flat in the heart of Paris",
             "surface_area": "16 m²",
             "price": 830000,
             "description": "Twice the surface area of what you can expect for the price! An opportunity to be seized!"
         },{
             "id": 823235244,
+            "intermediaryId": 327009580,
             "title": "Iure nisi labore iusto fugiat repellendus.",
             "surfaceArea": 96,
             "price": 927715,
@@ -15,6 +17,7 @@
         },
         {
             "id": 1479488584,
+            "intermediaryId": 112886284,
             "title": "Mollitia ex omnis hic cumque veniam.",
             "surfaceArea": 44,
             "price": 933466,
@@ -22,6 +25,7 @@
         },
         {
             "id": 906506802,
+            "intermediaryId": 1654368365,
             "title": "Ea quaerat quasi quidem placeat ullam.",
             "surfaceArea": 78,
             "price": 975557,
@@ -29,6 +33,7 @@
         },
         {
             "id": 1170273893,
+            "intermediaryId": 1105522473,
             "title": "Vitae tempora id optio earum nihil.",
             "surfaceArea": 75,
             "price": 310314,
@@ -36,6 +41,7 @@
         },
         {
             "id": 2032604552,
+            "intermediaryId": 893622155,
             "title": "Blanditiis eum omnis repellendus est odit.",
             "surfaceArea": 50,
             "price": 189328,
@@ -43,6 +49,7 @@
         },
         {
             "id": 616629419,
+            "intermediaryId": 1601076831,
             "title": "Ut vel et et unde molestias.",
             "surfaceArea": 74,
             "price": 418314,
@@ -50,6 +57,7 @@
         },
         {
             "id": 2126343666,
+            "intermediaryId": 1376235085,
             "title": "Ad molestiae quo cum est et.",
             "surfaceArea": 77,
             "price": 560042,
@@ -57,6 +65,7 @@
         },
         {
             "id": 952693987,
+            "intermediaryId": 2128947081,
             "title": "Aut eveniet omnis mollitia iste ducimus.",
             "surfaceArea": 17,
             "price": 677299,
@@ -64,6 +73,7 @@
         },
         {
             "id": 1494830074,
+            "intermediaryId": 456393666,
             "title": "Ut aut et vel qui eaque.",
             "surfaceArea": 44,
             "price": 198630,
@@ -71,6 +81,7 @@
         },
         {
             "id": 371889853,
+            "intermediaryId": 1654368365,
             "title": "Dignissimos architecto non excepturi ut quam.",
             "surfaceArea": 91,
             "price": 726752,
